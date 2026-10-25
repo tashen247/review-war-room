@@ -117,7 +117,8 @@ function generate(s: Scenario): { reviews: Review[]; releases: Release[] } {
       if (inc && version === inc.version && (inc.platform === "both" || inc.platform === platform) && rnd() < inc.share) {
         theme = inc.theme;
       } else {
-        let r = rnd(), acc = 0, key = "praise";
+        const r = rnd();
+        let acc = 0, key = "praise";
         for (const [k, w] of themeWeights) { acc += w; if (r < acc) { key = k; break; } }
         theme = BASE_THEMES[key];
       }

@@ -25,7 +25,7 @@ async function main() {
   if (!offline && !process.env.ANTHROPIC_API_KEY) console.log("ANTHROPIC_API_KEY not set: running the OFFLINE pipeline (keyword stand-in, no LLM).");
 
   if (cmd === "demo") {
-    if (!flag("keep-db")) rmSync(config.dbPath, { force: true }), rmSync(config.dbPath + "-wal", { force: true }), rmSync(config.dbPath + "-shm", { force: true });
+    if (!flag("keep-db")) for (const suffix of ["", "-wal", "-shm"]) rmSync(config.dbPath + suffix, { force: true });
     const db = openDb(config.dbPath);
     const scenario = opt("scenario");
     if (flag("two-runs")) {

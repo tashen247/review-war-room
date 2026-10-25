@@ -36,12 +36,12 @@ The agent may move it by at most ±0.10 and must give a reason, and `record_verd
 
 ## Results
 
-Live agent on the four seeded incidents (Sonnet lead, Haiku subagents):
+Live agent on the four seeded incidents (Sonnet lead, Haiku subagents), 3 repeats each:
 
-- **4 of 4 scenarios correct.** v4.2.0 Android (0.95), v3.9.1 iOS (0.95), the pricing release 5.0.0 on both platforms with 0 bugs (0.94), and "no incident" for the quiet week (0.77).
+- **4 of 4 scenarios correct on all 3 repeats (12/12).** v4.2.0 Android (0.95), v3.9.1 iOS (0.95), the pricing release 5.0.0 on both platforms with 0 bugs (0.94), and "no incident" for the quiet week (0.78).
 - **No duplicate bugs** across two consecutive runs. The second run reported cluster growth and opened no new ticket.
 - **100% of queued replies passed policy.** No reply was published.
-- **Cost per investigation $0.10–0.17**, against a $0.75 cap. The lead used 6–12 turns.
+- **Average $0.14 per investigation** (range about $0.12–0.17), against a $0.75 cap.
 - **The agent never moved the base confidence.** For this dataset the deterministic number was good enough, which is the outcome I wanted. The band exists for cases the factors can't see, such as a changelog that names the broken feature.
 - **About two minutes per live investigation** (113s on the full seeded dataset), mostly the clusterer subagents working through 12–13 batches.
 

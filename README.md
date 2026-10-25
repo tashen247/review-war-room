@@ -1,6 +1,10 @@
 # review-war-room
 
-**I built an agent that treats an app's rating drop like a production incident.**
+![ci](https://github.com/tashen247/review-war-room/actions/workflows/ci.yml/badge.svg)
+
+**One ratings dip in; out comes the release that caused it, a confidence score computed in code, deduplicated bugs, and support replies that wait for a human to approve them, all in one Slack war-room thread.**
+
+Nothing is ever published to a store: replies sit as `pending` until someone approves them in Slack, and approval only changes their status.
 
 It finds the release that caused a ratings dip, backs the verdict with clustered review evidence and a confidence score computed in code, files deduplicated bugs for engineering, drafts policy-checked replies for support (held for human approval), and runs one Slack war-room thread for everyone.
 
@@ -18,7 +22,7 @@ confidence 0.95  (deterministic base 0.95)
 
 ## Why
 
-In 20+ years of running production systems since 2002, I've learned that incidents need evidence, owners and a single thread. App reviews deserve the same. Ratings drops are usually noticed days late, and support, product and engineering each see a different piece of the picture. This puts all of it in one place within one run.
+In 24 years of running production systems, I've learned that incidents need evidence, owners and a single thread. App reviews deserve the same. Ratings drops are usually noticed days late, and support, product and engineering each see a different piece of the picture. This puts all of it in one place within one run.
 
 ## Architecture
 
@@ -115,19 +119,30 @@ Four seeded incidents, each with an expected outcome (`evals/expectations.ts`):
 | Pricing backlash, no defect | 5.0.0 (or none), top cluster is not a bug, **0 bugs** |
 | Quiet week | none, 0 bugs |
 
-Live run, 25 Oct 2026 (lead `claude-sonnet-5-5`, subagents `claude-haiku-5-5`):
+Live, 25 Oct 2026 (lead `claude-sonnet-5-5`, subagents `claude-haiku-5-5`), 3 repeats per scenario on a fresh database each time:
 
-| Scenario | Pass | Verdict | Confidence | Bugs | Pending replies | Cost | Turns | Notes |
-|---|---|---|---|---|---|---|---|---|
-| android-login-v420 | ✅ | 4.2.0 android | 0.95 (base 0.95) | 0 | 5 | $0.097 | 12 |  · run1 4.2.0@0.95 · bugs across 2 runs: 1 |
-| ios-crash-v391 | ✅ | 3.9.1 ios | 0.95 (base 0.95) | 1 | 5 | $0.137 | 8 |  |
-| pricing-backlash | ✅ | 5.0.0 both | 0.94 (base 0.94) | 0 | 5 | $0.125 | 8 |  |
-| quiet-week | ✅ | none  | 0.77 (base 0.77) | 0 | 0 | $0.122 | 6 |  |
+**4 of 4 scenarios passed on all 3 repeats (12/12), average $0.14 per investigation.**
 
-The login scenario row is the **second** run (run 1 opened the bug on days 1–24; run 2 opened none). In all four, the agent kept the deterministic base confidence and didn't use its ±0.10 band.
+| Scenario | Pass rate | Verdict | Confidence | Average cost per repeat |
+|---|---|---|---|---|
+| Android login loop (2 runs per repeat) | 3/3 | 4.2.0 android | 0.95 | $0.26 |
+| iOS crash on launch | 3/3 | 3.9.1 ios | 0.95 | $0.16 |
+| Pricing backlash | 3/3 | 5.0.0 both, 0 bugs | 0.94 | $0.13 |
+| Quiet week | 3/3 | none | 0.78 | $0.13 |
 
+Every login repeat opened exactly one bug across its two runs. In all 12 runs the agent kept the deterministic base confidence and didn't use its ±0.10 band. Per-run detail is in [`evals/results.md`](evals/results.md).
 
-`npm run eval` runs the live agent and writes `evals/results.md`. CI runs the 47 unit, security and pipeline tests plus `npm run eval -- --offline`, and never calls a live model.
+`npm run eval` runs the live agent (3 repeats per scenario by default, `--repeats N` to change it) and writes `evals/results.md`.
+
+## Tests
+
+CI runs lint, typecheck, 47 unit, security and pipeline tests, and `npm run eval -- --offline`. It never calls a live model. A few of the tests that hold the guarantees above:
+
+- `approval flips pending to approved and publishes nothing`: approving a run's replies returns `published: 0` and the queue shows only `approved` (`tests/pipeline.test.ts`).
+- `no agent that reads review text can post to Slack, open bugs or record the verdict`: checks the whole capability map (`tests/security.test.ts`).
+- `end to end: nothing outbound contains the injection or a secret`: runs the pipeline on the dataset with the planted injection review (`tests/security.test.ts`).
+- `opens no duplicate bugs and reports cluster growth`: two consecutive runs (`tests/pipeline.test.ts`).
+- `accepts base ±0.10 and rejects outside it, and requires a reason to adjust`: the confidence band (`tests/service.test.ts`).
 
 ## Limits and next steps
 

@@ -126,7 +126,7 @@ export class WarroomService {
         if (!KINDS.includes(c.kind)) throw new ToolError(`Invalid kind ${c.kind}`);
         const slug = slugify(c.label);
         let row = this.findBySlug(slug);
-        let attachedTo: string | null = row ? row.label : null;
+        const attachedTo: string | null = row ? row.label : null;
         if (!row) {
           const severity = Math.max(1, Math.min(5, Math.round(c.severity || 3)));
           const id = Number(this.db.prepare(`INSERT INTO clusters (slug, label, kind, summary, severity, platform, fingerprint, status, first_seen_run, created_at)
