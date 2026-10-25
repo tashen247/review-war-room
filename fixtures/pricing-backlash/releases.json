@@ -1,0 +1,30 @@
+[
+ {
+  "version": "4.9.2",
+  "platform": "android",
+  "date": "2026-09-10",
+  "changelog": "Bug fixes.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "4.9.2",
+  "platform": "ios",
+  "date": "2026-09-10",
+  "changelog": "Bug fixes.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "5.0.0",
+  "platform": "android",
+  "date": "2026-10-04",
+  "changelog": "Introducing Premium: advanced reports and exports move to the Premium plan.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "5.0.0",
+  "platform": "ios",
+  "date": "2026-10-04",
+  "changelog": "Introducing Premium: advanced reports and exports move to the Premium plan.",
+  "crashFree": 99.6
+ }
+]

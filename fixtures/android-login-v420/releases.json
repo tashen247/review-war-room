@@ -1,0 +1,37 @@
+[
+ {
+  "version": "4.1.0",
+  "platform": "android",
+  "date": "2026-09-01",
+  "changelog": "Monthly report redesign; bug fixes.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "4.1.0",
+  "platform": "ios",
+  "date": "2026-09-01",
+  "changelog": "Monthly report redesign; bug fixes.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "4.1.1",
+  "platform": "ios",
+  "date": "2026-09-27",
+  "changelog": "Fixes a widget rendering issue on iOS.",
+  "crashFree": 99.7
+ },
+ {
+  "version": "4.2.0",
+  "platform": "android",
+  "date": "2026-10-06",
+  "changelog": "Migrated auth to new OAuth SDK. Dark mode for reports. Performance improvements.",
+  "crashFree": 99.5
+ },
+ {
+  "version": "4.2.0",
+  "platform": "ios",
+  "date": "2026-10-08",
+  "changelog": "Migrated auth to new OAuth SDK. Dark mode for reports. Performance improvements.",
+  "crashFree": 99.7
+ }
+]

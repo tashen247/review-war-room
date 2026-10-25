@@ -1,0 +1,30 @@
+[
+ {
+  "version": "2.3.0",
+  "platform": "android",
+  "date": "2026-09-12",
+  "changelog": "Bug fixes.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "2.3.0",
+  "platform": "ios",
+  "date": "2026-09-12",
+  "changelog": "Bug fixes.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "2.3.1",
+  "platform": "android",
+  "date": "2026-10-05",
+  "changelog": "Copy tweaks and translations.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "2.3.1",
+  "platform": "ios",
+  "date": "2026-10-05",
+  "changelog": "Copy tweaks and translations.",
+  "crashFree": 99.6
+ }
+]

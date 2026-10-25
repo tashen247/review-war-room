@@ -1,0 +1,204 @@
+{
+  "name": "review-war-room",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": { "interval": [{ "field": "hours", "hoursInterval": 6 }] }
+      },
+      "id": "a1f0c6c2-0001-4a5e-9a01-000000000001",
+      "name": "Every 6 hours",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "review-war-room",
+        "responseMode": "onReceived",
+        "options": {}
+      },
+      "id": "a1f0c6c2-0002-4a5e-9a01-000000000002",
+      "name": "Manual run",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [0, 220],
+      "webhookId": "5b0c1e44-6f3e-4a59-9a0e-review-war-room"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.WARROOM_API_URL || 'http://api:8787' }}/ingest",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={}",
+        "options": { "timeout": 120000 }
+      },
+      "id": "a1f0c6c2-0003-4a5e-9a01-000000000003",
+      "name": "Ingest reviews",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [240, 100]
+    },
+    {
+      "parameters": {
+        "url": "={{ $env.WARROOM_API_URL || 'http://api:8787' }}/ratings/summary",
+        "options": {}
+      },
+      "id": "a1f0c6c2-0004-4a5e-9a01-000000000004",
+      "name": "Ratings summary",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [460, 100]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": { "caseSensitive": true, "leftValue": "", "typeValidation": "loose" },
+          "conditions": [
+            {
+              "id": "c1",
+              "leftValue": "={{ $json.dip }}",
+              "rightValue": "",
+              "operator": { "type": "boolean", "operation": "true", "singleValue": true }
+            },
+            {
+              "id": "c2",
+              "leftValue": "={{ $('Manual run').isExecuted }}",
+              "rightValue": "",
+              "operator": { "type": "boolean", "operation": "true", "singleValue": true }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "id": "a1f0c6c2-0005-4a5e-9a01-000000000005",
+      "name": "Dip >= 0.3★ or manual?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [680, 100]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.WARROOM_API_URL || 'http://api:8787' }}/investigations",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ resumeUrl: $execution.resumeUrl }) }}",
+        "options": {}
+      },
+      "id": "a1f0c6c2-0006-4a5e-9a01-000000000006",
+      "name": "Start investigation",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [900, 0]
+    },
+    {
+      "parameters": {
+        "resume": "webhook",
+        "httpMethod": "POST",
+        "limitWaitTime": true,
+        "limitType": "afterTimeInterval",
+        "resumeAmount": 30,
+        "resumeUnit": "minutes",
+        "options": {}
+      },
+      "id": "a1f0c6c2-0007-4a5e-9a01-000000000007",
+      "name": "Wait for verdict",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [1120, 0],
+      "webhookId": "9f1d2b7a-3c4e-4f60-8a1b-wait-for-verdict"
+    },
+    {
+      "parameters": {
+        "operation": "sendAndWait",
+        "select": "channel",
+        "channelId": { "__rl": true, "value": "={{ $env.SLACK_WARROOM_CHANNEL_ID }}", "mode": "id" },
+        "message": "={{ $json.body.verdict && $json.body.verdict.suspectVersion !== 'none' ? ':rotating_light: Suspect v' + $json.body.verdict.suspectVersion + ' (' + $json.body.verdict.platform + '), confidence ' + $json.body.verdict.confidence : ':white_check_mark: No release-linked incident' }}\n{{ $json.body.pendingReplies }} drafted replies are waiting. Approve them for the reply queue? (Nothing is published to the stores.)",
+        "approvalOptions": { "values": { "approvalType": "double" } },
+        "options": {}
+      },
+      "id": "a1f0c6c2-0008-4a5e-9a01-000000000008",
+      "name": "Slack approval",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.3,
+      "position": [1340, 0],
+      "webhookId": "0c2e8f4d-7a1b-4c3d-9e5f-slack-approval",
+      "credentials": { "slackApi": { "id": "REPLACE_ME", "name": "Slack bot" } }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": { "caseSensitive": true, "leftValue": "", "typeValidation": "loose" },
+          "conditions": [
+            {
+              "id": "a1",
+              "leftValue": "={{ $json.data.approved }}",
+              "rightValue": "",
+              "operator": { "type": "boolean", "operation": "true", "singleValue": true }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "a1f0c6c2-0009-4a5e-9a01-000000000009",
+      "name": "Approved?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1560, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.WARROOM_API_URL || 'http://api:8787' }}/replies/approve",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ runId: $('Wait for verdict').item.json.body.runId }) }}",
+        "options": {}
+      },
+      "id": "a1f0c6c2-0010-4a5e-9a01-000000000010",
+      "name": "Mark replies approved",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1780, -100]
+    },
+    {
+      "parameters": {
+        "select": "channel",
+        "channelId": { "__rl": true, "value": "={{ $env.SLACK_WARROOM_CHANNEL_ID }}", "mode": "id" },
+        "text": "Drafted replies left for manual review.",
+        "otherOptions": {}
+      },
+      "id": "a1f0c6c2-0011-4a5e-9a01-000000000011",
+      "name": "Left for manual review",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.3,
+      "position": [1780, 100],
+      "webhookId": "7d3c5a1e-2b4f-4e6a-8c9d-manual-review",
+      "credentials": { "slackApi": { "id": "REPLACE_ME", "name": "Slack bot" } }
+    }
+  ],
+  "connections": {
+    "Every 6 hours": { "main": [[{ "node": "Ingest reviews", "type": "main", "index": 0 }]] },
+    "Manual run": { "main": [[{ "node": "Ingest reviews", "type": "main", "index": 0 }]] },
+    "Ingest reviews": { "main": [[{ "node": "Ratings summary", "type": "main", "index": 0 }]] },
+    "Ratings summary": { "main": [[{ "node": "Dip >= 0.3★ or manual?", "type": "main", "index": 0 }]] },
+    "Dip >= 0.3★ or manual?": { "main": [[{ "node": "Start investigation", "type": "main", "index": 0 }], []] },
+    "Start investigation": { "main": [[{ "node": "Wait for verdict", "type": "main", "index": 0 }]] },
+    "Wait for verdict": { "main": [[{ "node": "Slack approval", "type": "main", "index": 0 }]] },
+    "Slack approval": { "main": [[{ "node": "Approved?", "type": "main", "index": 0 }]] },
+    "Approved?": {
+      "main": [
+        [{ "node": "Mark replies approved", "type": "main", "index": 0 }],
+        [{ "node": "Left for manual review", "type": "main", "index": 0 }]
+      ]
+    }
+  },
+  "active": false,
+  "settings": { "executionOrder": "v1" },
+  "pinData": {},
+  "meta": { "templateCredsSetupCompleted": false }
+}

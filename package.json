@@ -1,0 +1,45 @@
+{
+  "name": "review-war-room",
+  "version": "0.1.0",
+  "description": "An agent that treats an app's ratings drop like a production incident.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Tashen Muthayan",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "gen": "tsx scripts/gen-reviews.ts",
+    "dev": "tsx src/server.ts",
+    "start": "tsx src/server.ts",
+    "demo": "tsx src/cli.ts demo",
+    "investigate": "tsx src/cli.ts investigate",
+    "ingest": "tsx src/cli.ts ingest",
+    "trace": "tsx scripts/trace.ts",
+    "eval": "tsx evals/run.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "approve": "tsx src/cli.ts approve",
+    "summary": "tsx src/cli.ts summary"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.3.310",
+    "@slack/web-api": "^8.2.0",
+    "better-sqlite3": "^13.0.3",
+    "dotenv": "^18.0.9",
+    "fastify": "^5.12.7",
+    "googleapis": "^188.0.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  },
+  "optionalDependencies": {
+    "app-store-scraper": "^0.18.0",
+    "google-play-scraper": "^10.1.4"
+  }
+}

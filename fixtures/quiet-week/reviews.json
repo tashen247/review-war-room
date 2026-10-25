@@ -1,0 +1,5402 @@
+[
+ {
+  "id": "r7-0001",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Solid app, no complaints Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "US"
+ },
+ {
+  "id": "r7-0002",
+  "platform": "android",
+  "rating": 2,
+  "text": "Hmm, Sync is really slow on mobile data",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0003",
+  "platform": "android",
+  "rating": 4,
+  "text": "Really helpful for tracking my spending",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0004",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Super smooth and easy to use",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0005",
+  "platform": "android",
+  "rating": 2,
+  "text": "Ugh. Getting duplicate notifications for the same payment 😞",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0006",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Please add CSV export",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0007",
+  "platform": "android",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0008",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Super smooth and easy to use",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0009",
+  "platform": "android",
+  "rating": 2,
+  "text": "Takes forever to load my transactions 😞",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0010",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Update: Drains my battery in the background Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0011",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Ugh. Wish I could set custom categories Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0012",
+  "platform": "android",
+  "rating": 2,
+  "text": "Loading spinner for ages before the dashboard shows Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0013",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Add shared budgets with my partner please 😞",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0014",
+  "platform": "android",
+  "rating": 4,
+  "text": "Great support team, quick fixes Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0015",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Hmm, Slow to refresh balances",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0016",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Takes forever to load my transactions Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0017",
+  "platform": "android",
+  "rating": 4,
+  "text": "Use it every day, very reliable Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0018",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Hmm, Slow to refresh balances Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0019",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Need a way to export my monthly report as PDF Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0020",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Super smooth and easy to use",
+  "version": "2.3.0",
+  "date": "2026-09-21",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0021",
+  "platform": "android",
+  "rating": 3,
+  "text": "Update: Please add CSV export",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "US"
+ },
+ {
+  "id": "r7-0022",
+  "platform": "ios",
+  "rating": 4,
+  "text": "The new charts are lovely 😞",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0023",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Best budgeting app I've tried Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0024",
+  "platform": "android",
+  "rating": 3,
+  "text": "FYI Add shared budgets with my partner please Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0025",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, Use it every day, very reliable Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0026",
+  "platform": "android",
+  "rating": 5,
+  "text": "Ugh. Best budgeting app I've tried Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0027",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Solid app, no complaints Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0028",
+  "platform": "android",
+  "rating": 2,
+  "text": "Honestly, Battery usage is way too high for a finance app Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0029",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Phone gets warm when the app syncs",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0030",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Bill reminders don't always fire Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0031",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Loading spinner for ages before the dashboard shows Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0032",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Slow to refresh balances Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0033",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. Slow to refresh balances Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0034",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Slow to refresh balances Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0035",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Solid app, no complaints Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0036",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Please add CSV export Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0037",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Best budgeting app I've tried Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0038",
+  "platform": "android",
+  "rating": 2,
+  "text": "Notifications arrive hours late Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0039",
+  "platform": "android",
+  "rating": 5,
+  "text": "Works great, five stars Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0040",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Hmm, Use it every day, very reliable",
+  "version": "2.3.0",
+  "date": "2026-09-22",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0041",
+  "platform": "ios",
+  "rating": 5,
+  "text": "FYI Solid app, no complaints",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0042",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Battery usage is way too high for a finance app",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "US"
+ },
+ {
+  "id": "r7-0043",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Hmm, Super smooth and easy to use",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0044",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Great support team, quick fixes Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0045",
+  "platform": "android",
+  "rating": 2,
+  "text": "App feels sluggish when opening reports 😞",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0046",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Great support team, quick fixes",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0047",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Wish I could set custom categories Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0048",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Hmm, Drains my battery in the background Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0049",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Solid app, no complaints Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0050",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Sync is really slow on mobile data Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0051",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Drains my battery in the background Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0052",
+  "platform": "android",
+  "rating": 3,
+  "text": "Phone gets warm when the app syncs",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "US"
+ },
+ {
+  "id": "r7-0053",
+  "platform": "android",
+  "rating": 5,
+  "text": "Use it every day, very reliable Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0054",
+  "platform": "android",
+  "rating": 4,
+  "text": "Love this app, does exactly what I need 😞",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0055",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Clean design and fast Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0056",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Drains my battery in the background 😞",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0057",
+  "platform": "android",
+  "rating": 3,
+  "text": "FYI Phone gets warm when the app syncs Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0058",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Ugh. App feels sluggish when opening reports 😞",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0059",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Add shared budgets with my partner please",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0060",
+  "platform": "android",
+  "rating": 2,
+  "text": "Bill reminders don't always fire Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-23",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0061",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Solid app, no complaints",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0062",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Best budgeting app I've tried 😞",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0063",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. Bill reminders don't always fire Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0064",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, The new charts are lovely Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "US"
+ },
+ {
+  "id": "r7-0065",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Clean design and fast",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0066",
+  "platform": "android",
+  "rating": 5,
+  "text": "Great support team, quick fixes Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0067",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Best budgeting app I've tried Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0068",
+  "platform": "android",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need 😞",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0069",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Use it every day, very reliable Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0070",
+  "platform": "ios",
+  "rating": 4,
+  "text": "FYI Use it every day, very reliable Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0071",
+  "platform": "ios",
+  "rating": 4,
+  "text": "The new charts are lovely",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0072",
+  "platform": "ios",
+  "rating": 2,
+  "text": "App feels sluggish when opening reports 😞",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0073",
+  "platform": "android",
+  "rating": 2,
+  "text": "Honestly, Takes forever to load my transactions",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0074",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Add shared budgets with my partner please Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0075",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Update: Slow to refresh balances",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0076",
+  "platform": "android",
+  "rating": 4,
+  "text": "Works great, five stars Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0077",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Add shared budgets with my partner please Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0078",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Getting duplicate notifications for the same payment 😞",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0079",
+  "platform": "android",
+  "rating": 3,
+  "text": "Update: Notifications arrive hours late 😞",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0080",
+  "platform": "android",
+  "rating": 2,
+  "text": "Honestly, Loading spinner for ages before the dashboard shows Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-24",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0081",
+  "platform": "android",
+  "rating": 3,
+  "text": "Wish I could set custom categories",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0082",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Works great, five stars Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0083",
+  "platform": "android",
+  "rating": 2,
+  "text": "Ugh. Takes forever to load my transactions Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0084",
+  "platform": "android",
+  "rating": 5,
+  "text": "Ugh. Best budgeting app I've tried",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0085",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Great support team, quick fixes 😞",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "US"
+ },
+ {
+  "id": "r7-0086",
+  "platform": "android",
+  "rating": 4,
+  "text": "Really helpful for tracking my spending Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0087",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, The new charts are lovely Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0088",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Update: Use it every day, very reliable Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0089",
+  "platform": "ios",
+  "rating": 5,
+  "text": "The new charts are lovely 😞",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0090",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Hmm, Drains my battery in the background",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0091",
+  "platform": "android",
+  "rating": 5,
+  "text": "Ugh. Use it every day, very reliable",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0092",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: Add shared budgets with my partner please Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0093",
+  "platform": "android",
+  "rating": 5,
+  "text": "Super smooth and easy to use",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0094",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Update: Notifications arrive hours late Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0095",
+  "platform": "ios",
+  "rating": 5,
+  "text": "FYI Great support team, quick fixes Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0096",
+  "platform": "android",
+  "rating": 5,
+  "text": "The new charts are lovely",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "US"
+ },
+ {
+  "id": "r7-0097",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Getting duplicate notifications for the same payment Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0098",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Update: Slow to refresh balances",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0099",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Best budgeting app I've tried Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0100",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Really helpful for tracking my spending Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-25",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0101",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Love this app, does exactly what I need Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0102",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Loading spinner for ages before the dashboard shows Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0103",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Really helpful for tracking my spending",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0104",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: Add shared budgets with my partner please Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "US"
+ },
+ {
+  "id": "r7-0105",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Use it every day, very reliable",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0106",
+  "platform": "android",
+  "rating": 3,
+  "text": "Need a way to export my monthly report as PDF",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0107",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Best budgeting app I've tried",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0108",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Super smooth and easy to use Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0109",
+  "platform": "android",
+  "rating": 3,
+  "text": "FYI Phone gets warm when the app syncs",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0110",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Getting duplicate notifications for the same payment",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0111",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0112",
+  "platform": "android",
+  "rating": 3,
+  "text": "Update: Getting duplicate notifications for the same payment 😞",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0113",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Clean design and fast Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0114",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Update: Really helpful for tracking my spending Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0115",
+  "platform": "android",
+  "rating": 2,
+  "text": "Honestly, Drains my battery in the background",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0116",
+  "platform": "android",
+  "rating": 2,
+  "text": "Hmm, Sync is really slow on mobile data",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0117",
+  "platform": "android",
+  "rating": 2,
+  "text": "Loading spinner for ages before the dashboard shows",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "US"
+ },
+ {
+  "id": "r7-0118",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Clean design and fast Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0119",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Clean design and fast",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "US"
+ },
+ {
+  "id": "r7-0120",
+  "platform": "android",
+  "rating": 3,
+  "text": "Update: Loading spinner for ages before the dashboard shows Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-26",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0121",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Please add CSV export",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0122",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Wish I could set custom categories 😞",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0123",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Phone gets warm when the app syncs Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0124",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Getting duplicate notifications for the same payment Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0125",
+  "platform": "android",
+  "rating": 3,
+  "text": "Update: Takes forever to load my transactions Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0126",
+  "platform": "android",
+  "rating": 3,
+  "text": "Update: Loading spinner for ages before the dashboard shows Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "US"
+ },
+ {
+  "id": "r7-0127",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Honestly, Please add CSV export",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0128",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Honestly, Notifications arrive hours late Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0129",
+  "platform": "android",
+  "rating": 3,
+  "text": "Sync is really slow on mobile data Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0130",
+  "platform": "android",
+  "rating": 5,
+  "text": "Solid app, no complaints 😞",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "US"
+ },
+ {
+  "id": "r7-0131",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Best budgeting app I've tried 😞",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0132",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Use it every day, very reliable",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0133",
+  "platform": "android",
+  "rating": 2,
+  "text": "Update: Slow to refresh balances Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0134",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Would love to export to Excel",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0135",
+  "platform": "android",
+  "rating": 3,
+  "text": "Slow to refresh balances",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0136",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0137",
+  "platform": "android",
+  "rating": 2,
+  "text": "Battery usage is way too high for a finance app Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0138",
+  "platform": "android",
+  "rating": 4,
+  "text": "Please add CSV export",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0139",
+  "platform": "android",
+  "rating": 2,
+  "text": "Loading spinner for ages before the dashboard shows Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0140",
+  "platform": "android",
+  "rating": 2,
+  "text": "Hmm, Takes forever to load my transactions Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-27",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0141",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Ugh. Bill reminders don't always fire Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0142",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Phone gets warm when the app syncs",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0143",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Works great, five stars Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0144",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Loading spinner for ages before the dashboard shows 😞",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0145",
+  "platform": "android",
+  "rating": 4,
+  "text": "Update: Really helpful for tracking my spending",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0146",
+  "platform": "android",
+  "rating": 5,
+  "text": "Really helpful for tracking my spending Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0147",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Bill reminders don't always fire Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0148",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Love this app, does exactly what I need 😞",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0149",
+  "platform": "android",
+  "rating": 2,
+  "text": "Honestly, Notifications arrive hours late",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0150",
+  "platform": "android",
+  "rating": 5,
+  "text": "The new charts are lovely Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0151",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Battery usage is way too high for a finance app",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0152",
+  "platform": "android",
+  "rating": 4,
+  "text": "The new charts are lovely",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0153",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Hmm, Really helpful for tracking my spending Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "US"
+ },
+ {
+  "id": "r7-0154",
+  "platform": "android",
+  "rating": 5,
+  "text": "FYI Solid app, no complaints 😞",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0155",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0156",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Use it every day, very reliable",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0157",
+  "platform": "android",
+  "rating": 4,
+  "text": "Use it every day, very reliable Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0158",
+  "platform": "android",
+  "rating": 2,
+  "text": "Loading spinner for ages before the dashboard shows Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0159",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Slow to refresh balances Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0160",
+  "platform": "android",
+  "rating": 4,
+  "text": "Best budgeting app I've tried Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-28",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0161",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Love this app, does exactly what I need",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0162",
+  "platform": "android",
+  "rating": 3,
+  "text": "Takes forever to load my transactions Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0163",
+  "platform": "android",
+  "rating": 5,
+  "text": "The new charts are lovely",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0164",
+  "platform": "android",
+  "rating": 5,
+  "text": "FYI Use it every day, very reliable Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0165",
+  "platform": "android",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0166",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Takes forever to load my transactions",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0167",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Takes forever to load my transactions",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0168",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Update: Please add CSV export",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0169",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, The new charts are lovely",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "US"
+ },
+ {
+  "id": "r7-0170",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Add shared budgets with my partner please 😞",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0171",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Battery usage is way too high for a finance app 😞",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0172",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Phone gets warm when the app syncs",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0173",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Clean design and fast 😞",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "US"
+ },
+ {
+  "id": "r7-0174",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Clean design and fast",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0175",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Notifications arrive hours late 😞",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0176",
+  "platform": "android",
+  "rating": 3,
+  "text": "Slow to refresh balances Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "US"
+ },
+ {
+  "id": "r7-0177",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Super smooth and easy to use Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0178",
+  "platform": "android",
+  "rating": 2,
+  "text": "Honestly, Sync is really slow on mobile data Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0179",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Best budgeting app I've tried",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0180",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Update: Getting duplicate notifications for the same payment",
+  "version": "2.3.0",
+  "date": "2026-09-29",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0181",
+  "platform": "android",
+  "rating": 3,
+  "text": "Getting duplicate notifications for the same payment Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0182",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Use it every day, very reliable Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0183",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Works great, five stars Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0184",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Hmm, Slow to refresh balances",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0185",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Update: Best budgeting app I've tried",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0186",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Super smooth and easy to use Thanks.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0187",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, Add shared budgets with my partner please",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0188",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Please add CSV export Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "US"
+ },
+ {
+  "id": "r7-0189",
+  "platform": "android",
+  "rating": 5,
+  "text": "Best budgeting app I've tried Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0190",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Really helpful for tracking my spending Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0191",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Love this app, does exactly what I need Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0192",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Wish I could set custom categories",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0193",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Honestly, Wish I could set custom categories Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0194",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. App feels sluggish when opening reports",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0195",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Great support team, quick fixes Please fix.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0196",
+  "platform": "ios",
+  "rating": 4,
+  "text": "The new charts are lovely",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0197",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Love this app, does exactly what I need 😞",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0198",
+  "platform": "android",
+  "rating": 5,
+  "text": "Ugh. Really helpful for tracking my spending Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0199",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Solid app, no complaints Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0200",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Getting duplicate notifications for the same payment Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-09-30",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0201",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, The new charts are lovely Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0202",
+  "platform": "ios",
+  "rating": 5,
+  "text": "The new charts are lovely Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0203",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Ugh. Battery usage is way too high for a finance app",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "US"
+ },
+ {
+  "id": "r7-0204",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Takes forever to load my transactions Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0205",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Hmm, Sync is really slow on mobile data 😞",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0206",
+  "platform": "android",
+  "rating": 4,
+  "text": "Would love to export to Excel",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0207",
+  "platform": "android",
+  "rating": 4,
+  "text": "Wish I could set custom categories Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0208",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: Use it every day, very reliable",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "US"
+ },
+ {
+  "id": "r7-0209",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Battery usage is way too high for a finance app Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0210",
+  "platform": "android",
+  "rating": 3,
+  "text": "Update: App feels sluggish when opening reports",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0211",
+  "platform": "android",
+  "rating": 2,
+  "text": "Hmm, Battery usage is way too high for a finance app",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0212",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Add shared budgets with my partner please",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "US"
+ },
+ {
+  "id": "r7-0213",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Phone gets warm when the app syncs",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0214",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0215",
+  "platform": "android",
+  "rating": 4,
+  "text": "Super smooth and easy to use Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0216",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, The new charts are lovely",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0217",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Love this app, does exactly what I need Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0218",
+  "platform": "android",
+  "rating": 4,
+  "text": "Really helpful for tracking my spending Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0219",
+  "platform": "android",
+  "rating": 2,
+  "text": "Phone gets warm when the app syncs Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0220",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Would love to export to Excel",
+  "version": "2.3.0",
+  "date": "2026-10-01",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0221",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Hmm, Clean design and fast Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "US"
+ },
+ {
+  "id": "r7-0222",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Hmm, Phone gets warm when the app syncs",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0223",
+  "platform": "android",
+  "rating": 4,
+  "text": "Please add CSV export Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0224",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Really helpful for tracking my spending",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "US"
+ },
+ {
+  "id": "r7-0225",
+  "platform": "android",
+  "rating": 5,
+  "text": "Works great, five stars Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0226",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Use it every day, very reliable",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0227",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Update: Takes forever to load my transactions 😞",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0228",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Super smooth and easy to use Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0229",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. Loading spinner for ages before the dashboard shows Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0230",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Solid app, no complaints",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0231",
+  "platform": "android",
+  "rating": 5,
+  "text": "Solid app, no complaints",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0232",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Loading spinner for ages before the dashboard shows 😞",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0233",
+  "platform": "android",
+  "rating": 4,
+  "text": "Love this app, does exactly what I need Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "US"
+ },
+ {
+  "id": "r7-0234",
+  "platform": "android",
+  "rating": 4,
+  "text": "Update: Would love to export to Excel 😞",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0235",
+  "platform": "android",
+  "rating": 3,
+  "text": "Loading spinner for ages before the dashboard shows Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "US"
+ },
+ {
+  "id": "r7-0236",
+  "platform": "android",
+  "rating": 5,
+  "text": "Clean design and fast",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0237",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. The new charts are lovely 😞",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0238",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, Clean design and fast",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "US"
+ },
+ {
+  "id": "r7-0239",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Please add CSV export Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0240",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Getting duplicate notifications for the same payment Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-02",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0241",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Notifications arrive hours late Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0242",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Love this app, does exactly what I need Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0243",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: Use it every day, very reliable",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "US"
+ },
+ {
+  "id": "r7-0244",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Need a way to export my monthly report as PDF Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0245",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Battery usage is way too high for a finance app",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0246",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Best budgeting app I've tried",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0247",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Great support team, quick fixes Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0248",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Slow to refresh balances 😞",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0249",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Wish I could set custom categories Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0250",
+  "platform": "ios",
+  "rating": 3,
+  "text": "App feels sluggish when opening reports Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0251",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Works great, five stars Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0252",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Great support team, quick fixes",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0253",
+  "platform": "android",
+  "rating": 5,
+  "text": "Best budgeting app I've tried Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0254",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Bill reminders don't always fire",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0255",
+  "platform": "android",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0256",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, Best budgeting app I've tried Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0257",
+  "platform": "android",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "US"
+ },
+ {
+  "id": "r7-0258",
+  "platform": "ios",
+  "rating": 4,
+  "text": "FYI Super smooth and easy to use Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0259",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Would love to export to Excel Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0260",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Wish I could set custom categories",
+  "version": "2.3.0",
+  "date": "2026-10-03",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0261",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Works great, five stars",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "US"
+ },
+ {
+  "id": "r7-0262",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Clean design and fast Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0263",
+  "platform": "android",
+  "rating": 2,
+  "text": "Phone gets warm when the app syncs",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "US"
+ },
+ {
+  "id": "r7-0264",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Battery usage is way too high for a finance app Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0265",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Super smooth and easy to use",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0266",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0267",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Really helpful for tracking my spending 😞",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0268",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Clean design and fast Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0269",
+  "platform": "android",
+  "rating": 3,
+  "text": "Takes forever to load my transactions",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "US"
+ },
+ {
+  "id": "r7-0270",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Works great, five stars Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0271",
+  "platform": "ios",
+  "rating": 5,
+  "text": "FYI Great support team, quick fixes Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0272",
+  "platform": "ios",
+  "rating": 4,
+  "text": "FYI Clean design and fast Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0273",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Ugh. Getting duplicate notifications for the same payment Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0274",
+  "platform": "ios",
+  "rating": 3,
+  "text": "App feels sluggish when opening reports Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0275",
+  "platform": "android",
+  "rating": 4,
+  "text": "Solid app, no complaints",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0276",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Please add CSV export Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "US"
+ },
+ {
+  "id": "r7-0277",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Super smooth and easy to use Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0278",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Really helpful for tracking my spending Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0279",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Honestly, Really helpful for tracking my spending Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "US"
+ },
+ {
+  "id": "r7-0280",
+  "platform": "ios",
+  "rating": 4,
+  "text": "FYI Would love to export to Excel Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-04",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0281",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, Use it every day, very reliable Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0282",
+  "platform": "android",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0283",
+  "platform": "android",
+  "rating": 3,
+  "text": "Add shared budgets with my partner please 😞",
+  "version": "2.3.1",
+  "date": "2026-10-05",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0284",
+  "platform": "android",
+  "rating": 4,
+  "text": "Clean design and fast Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0285",
+  "platform": "android",
+  "rating": 4,
+  "text": "Works great, five stars Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0286",
+  "platform": "ios",
+  "rating": 2,
+  "text": "FYI Bill reminders don't always fire 😞",
+  "version": "2.3.1",
+  "date": "2026-10-05",
+  "country": "US"
+ },
+ {
+  "id": "r7-0287",
+  "platform": "android",
+  "rating": 4,
+  "text": "Would love to export to Excel Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0288",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Works great, five stars Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0289",
+  "platform": "android",
+  "rating": 3,
+  "text": "Drains my battery in the background",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0290",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Hmm, Slow to refresh balances",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0291",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Really helpful for tracking my spending Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0292",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Super smooth and easy to use",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "US"
+ },
+ {
+  "id": "r7-0293",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Super smooth and easy to use Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0294",
+  "platform": "android",
+  "rating": 5,
+  "text": "Ugh. Super smooth and easy to use Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-05",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0295",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Clean design and fast Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0296",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Clean design and fast Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0297",
+  "platform": "android",
+  "rating": 2,
+  "text": "Ugh. Bill reminders don't always fire Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "US"
+ },
+ {
+  "id": "r7-0298",
+  "platform": "android",
+  "rating": 2,
+  "text": "Hmm, Takes forever to load my transactions Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0299",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, The new charts are lovely 😞",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "US"
+ },
+ {
+  "id": "r7-0300",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Clean design and fast",
+  "version": "2.3.0",
+  "date": "2026-10-05",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0301",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Phone gets warm when the app syncs Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0302",
+  "platform": "android",
+  "rating": 4,
+  "text": "Wish I could set custom categories",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0303",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Bill reminders don't always fire Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0304",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: Add shared budgets with my partner please",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0305",
+  "platform": "android",
+  "rating": 4,
+  "text": "Please add CSV export Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-06",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0306",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: Add shared budgets with my partner please",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "US"
+ },
+ {
+  "id": "r7-0307",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Love this app, does exactly what I need",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0308",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Update: Drains my battery in the background",
+  "version": "2.3.1",
+  "date": "2026-10-06",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0309",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Love this app, does exactly what I need",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0310",
+  "platform": "android",
+  "rating": 3,
+  "text": "FYI Would love to export to Excel",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "US"
+ },
+ {
+  "id": "r7-0311",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Ugh. Bill reminders don't always fire 😞",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0312",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Drains my battery in the background",
+  "version": "2.3.1",
+  "date": "2026-10-06",
+  "country": "US"
+ },
+ {
+  "id": "r7-0313",
+  "platform": "android",
+  "rating": 2,
+  "text": "Hmm, Sync is really slow on mobile data",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0314",
+  "platform": "android",
+  "rating": 3,
+  "text": "Drains my battery in the background",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0315",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need 😞",
+  "version": "2.3.1",
+  "date": "2026-10-06",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0316",
+  "platform": "android",
+  "rating": 4,
+  "text": "Really helpful for tracking my spending",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0317",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Best budgeting app I've tried Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-06",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0318",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Solid app, no complaints 😞",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0319",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Ugh. Sync is really slow on mobile data",
+  "version": "2.3.1",
+  "date": "2026-10-06",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0320",
+  "platform": "android",
+  "rating": 5,
+  "text": "The new charts are lovely",
+  "version": "2.3.0",
+  "date": "2026-10-06",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0321",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: Use it every day, very reliable",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0322",
+  "platform": "android",
+  "rating": 5,
+  "text": "Use it every day, very reliable Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0323",
+  "platform": "android",
+  "rating": 3,
+  "text": "Bill reminders don't always fire Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0324",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Loading spinner for ages before the dashboard shows Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0325",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. Add shared budgets with my partner please",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0326",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. Battery usage is way too high for a finance app Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "US"
+ },
+ {
+  "id": "r7-0327",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Update: Drains my battery in the background",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0328",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Works great, five stars",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0329",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Works great, five stars",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0330",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Would love to export to Excel Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0331",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Super smooth and easy to use Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-07",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0332",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI The new charts are lovely Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0333",
+  "platform": "ios",
+  "rating": 5,
+  "text": "The new charts are lovely Really frustrating.",
+  "version": "2.3.0",
+  "date": "2026-10-07",
+  "country": "US"
+ },
+ {
+  "id": "r7-0334",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Wish I could set custom categories Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0335",
+  "platform": "android",
+  "rating": 3,
+  "text": "Battery usage is way too high for a finance app Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0336",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Solid app, no complaints",
+  "version": "2.3.0",
+  "date": "2026-10-07",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0337",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Notifications arrive hours late",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0338",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Solid app, no complaints Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "US"
+ },
+ {
+  "id": "r7-0339",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Need a way to export my monthly report as PDF Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0340",
+  "platform": "android",
+  "rating": 2,
+  "text": "Hmm, Takes forever to load my transactions Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-07",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0341",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Clean design and fast Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0342",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Update: Great support team, quick fixes Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0343",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Hmm, Takes forever to load my transactions",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0344",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Works great, five stars",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0345",
+  "platform": "android",
+  "rating": 5,
+  "text": "Works great, five stars",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0346",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Takes forever to load my transactions Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "US"
+ },
+ {
+  "id": "r7-0347",
+  "platform": "android",
+  "rating": 5,
+  "text": "Ugh. Clean design and fast Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "US"
+ },
+ {
+  "id": "r7-0348",
+  "platform": "android",
+  "rating": 3,
+  "text": "Need a way to export my monthly report as PDF 😞",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0349",
+  "platform": "android",
+  "rating": 2,
+  "text": "Sync is really slow on mobile data Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0350",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Use it every day, very reliable Please fix.",
+  "version": "2.3.0",
+  "date": "2026-10-08",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0351",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, The new charts are lovely",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0352",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Clean design and fast",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "US"
+ },
+ {
+  "id": "r7-0353",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Works great, five stars 😞",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0354",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Would love to export to Excel Thanks.",
+  "version": "2.3.0",
+  "date": "2026-10-08",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0355",
+  "platform": "android",
+  "rating": 3,
+  "text": "FYI Wish I could set custom categories 😞",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "US"
+ },
+ {
+  "id": "r7-0356",
+  "platform": "android",
+  "rating": 5,
+  "text": "FYI Use it every day, very reliable Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0357",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Works great, five stars 😞",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "US"
+ },
+ {
+  "id": "r7-0358",
+  "platform": "android",
+  "rating": 5,
+  "text": "FYI Great support team, quick fixes 😞",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0359",
+  "platform": "ios",
+  "rating": 5,
+  "text": "The new charts are lovely Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0360",
+  "platform": "android",
+  "rating": 4,
+  "text": "Please add CSV export",
+  "version": "2.3.1",
+  "date": "2026-10-08",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0361",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Really helpful for tracking my spending",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0362",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need 😞",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0363",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Really helpful for tracking my spending 😞",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0364",
+  "platform": "android",
+  "rating": 5,
+  "text": "Ugh. Great support team, quick fixes 😞",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0365",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Phone gets warm when the app syncs",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0366",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Update: Please add CSV export Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0367",
+  "platform": "android",
+  "rating": 5,
+  "text": "FYI Solid app, no complaints Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0368",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Great support team, quick fixes",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "US"
+ },
+ {
+  "id": "r7-0369",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Would love to export to Excel Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0370",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Ugh. Battery usage is way too high for a finance app",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0371",
+  "platform": "android",
+  "rating": 4,
+  "text": "Works great, five stars Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0372",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Honestly, Getting duplicate notifications for the same payment Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0373",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Really helpful for tracking my spending 😞",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0374",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Super smooth and easy to use 😞",
+  "version": "2.3.0",
+  "date": "2026-10-09",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0375",
+  "platform": "ios",
+  "rating": 5,
+  "text": "FYI Use it every day, very reliable Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0376",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, Really helpful for tracking my spending 😞",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "US"
+ },
+ {
+  "id": "r7-0377",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Really helpful for tracking my spending Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0378",
+  "platform": "android",
+  "rating": 2,
+  "text": "Ugh. Battery usage is way too high for a finance app",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0379",
+  "platform": "android",
+  "rating": 5,
+  "text": "Really helpful for tracking my spending Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0380",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Honestly, The new charts are lovely",
+  "version": "2.3.1",
+  "date": "2026-10-09",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0381",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Drains my battery in the background Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0382",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, The new charts are lovely 😞",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "US"
+ },
+ {
+  "id": "r7-0383",
+  "platform": "android",
+  "rating": 4,
+  "text": "Super smooth and easy to use Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0384",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Use it every day, very reliable Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "US"
+ },
+ {
+  "id": "r7-0385",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Clean design and fast",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0386",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Use it every day, very reliable Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0387",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Drains my battery in the background Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0388",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Phone gets warm when the app syncs Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0389",
+  "platform": "android",
+  "rating": 2,
+  "text": "Update: Notifications arrive hours late",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0390",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Super smooth and easy to use",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0391",
+  "platform": "android",
+  "rating": 5,
+  "text": "Great support team, quick fixes Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "US"
+ },
+ {
+  "id": "r7-0392",
+  "platform": "android",
+  "rating": 3,
+  "text": "Takes forever to load my transactions Otherwise good.",
+  "version": "2.3.0",
+  "date": "2026-10-10",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0393",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Really helpful for tracking my spending Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0394",
+  "platform": "ios",
+  "rating": 4,
+  "text": "FYI Works great, five stars",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0395",
+  "platform": "android",
+  "rating": 5,
+  "text": "Really helpful for tracking my spending Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0396",
+  "platform": "android",
+  "rating": 3,
+  "text": "Please add CSV export",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "US"
+ },
+ {
+  "id": "r7-0397",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Hmm, Loading spinner for ages before the dashboard shows Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "US"
+ },
+ {
+  "id": "r7-0398",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Really helpful for tracking my spending",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0399",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0400",
+  "platform": "android",
+  "rating": 5,
+  "text": "Really helpful for tracking my spending Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-10",
+  "country": "US"
+ },
+ {
+  "id": "r7-0401",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Solid app, no complaints 😞",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0402",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Ugh. Notifications arrive hours late Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0403",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Super smooth and easy to use Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0404",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, The new charts are lovely",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0405",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Would love to export to Excel Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0406",
+  "platform": "ios",
+  "rating": 5,
+  "text": "FYI Solid app, no complaints",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0407",
+  "platform": "android",
+  "rating": 4,
+  "text": "Really helpful for tracking my spending Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0408",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Clean design and fast",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0409",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Super smooth and easy to use Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0410",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Wish I could set custom categories Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0411",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Would love to export to Excel Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "US"
+ },
+ {
+  "id": "r7-0412",
+  "platform": "android",
+  "rating": 2,
+  "text": "Update: Bill reminders don't always fire Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0413",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI The new charts are lovely",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0414",
+  "platform": "android",
+  "rating": 5,
+  "text": "Great support team, quick fixes 😞",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0415",
+  "platform": "ios",
+  "rating": 2,
+  "text": "FYI Sync is really slow on mobile data Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0416",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Super smooth and easy to use",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0417",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Would love to export to Excel Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0418",
+  "platform": "android",
+  "rating": 5,
+  "text": "Best budgeting app I've tried Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0419",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Takes forever to load my transactions Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0420",
+  "platform": "android",
+  "rating": 2,
+  "text": "Hmm, App feels sluggish when opening reports Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-11",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0421",
+  "platform": "android",
+  "rating": 3,
+  "text": "Update: Getting duplicate notifications for the same payment",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0422",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Really helpful for tracking my spending",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0423",
+  "platform": "android",
+  "rating": 5,
+  "text": "Works great, five stars",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0424",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Update: Notifications arrive hours late Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0425",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Battery usage is way too high for a finance app",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0426",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Great support team, quick fixes 😞",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0427",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Really helpful for tracking my spending",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0428",
+  "platform": "android",
+  "rating": 2,
+  "text": "Hmm, Battery usage is way too high for a finance app Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0429",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Wish I could set custom categories Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0430",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Sync is really slow on mobile data Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "US"
+ },
+ {
+  "id": "r7-0431",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Super smooth and easy to use Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0432",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0433",
+  "platform": "android",
+  "rating": 3,
+  "text": "Drains my battery in the background",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0434",
+  "platform": "android",
+  "rating": 3,
+  "text": "App feels sluggish when opening reports 😞",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0435",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Solid app, no complaints",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0436",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Notifications arrive hours late",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0437",
+  "platform": "android",
+  "rating": 4,
+  "text": "Best budgeting app I've tried 😞",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0438",
+  "platform": "android",
+  "rating": 5,
+  "text": "FYI Works great, five stars Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0439",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Love this app, does exactly what I need Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "US"
+ },
+ {
+  "id": "r7-0440",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Battery usage is way too high for a finance app Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-12",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0441",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Clean design and fast Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0442",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Phone gets warm when the app syncs",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0443",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Ugh. Sync is really slow on mobile data Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0444",
+  "platform": "android",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0445",
+  "platform": "ios",
+  "rating": 5,
+  "text": "FYI Solid app, no complaints",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0446",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Drains my battery in the background Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0447",
+  "platform": "android",
+  "rating": 2,
+  "text": "Honestly, App feels sluggish when opening reports",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0448",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Great support team, quick fixes Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0449",
+  "platform": "android",
+  "rating": 4,
+  "text": "Works great, five stars 😞",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0450",
+  "platform": "android",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0451",
+  "platform": "android",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0452",
+  "platform": "ios",
+  "rating": 5,
+  "text": "The new charts are lovely",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0453",
+  "platform": "android",
+  "rating": 3,
+  "text": "Update: Drains my battery in the background",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0454",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Update: Takes forever to load my transactions 😞",
+  "version": "2.3.0",
+  "date": "2026-10-13",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0455",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Add shared budgets with my partner please 😞",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0456",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Hmm, Bill reminders don't always fire Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0457",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Solid app, no complaints",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0458",
+  "platform": "android",
+  "rating": 2,
+  "text": "Bill reminders don't always fire Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0459",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Solid app, no complaints 😞",
+  "version": "2.3.0",
+  "date": "2026-10-13",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0460",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Ugh. Drains my battery in the background Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-13",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0461",
+  "platform": "ios",
+  "rating": 5,
+  "text": "The new charts are lovely",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0462",
+  "platform": "android",
+  "rating": 4,
+  "text": "The new charts are lovely Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0463",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Great support team, quick fixes",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0464",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Battery usage is way too high for a finance app Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0465",
+  "platform": "ios",
+  "rating": 4,
+  "text": "FYI Clean design and fast Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0466",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Super smooth and easy to use",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "US"
+ },
+ {
+  "id": "r7-0467",
+  "platform": "android",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0468",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Really helpful for tracking my spending Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "US"
+ },
+ {
+  "id": "r7-0469",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Really helpful for tracking my spending Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0470",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Slow to refresh balances Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0471",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Takes forever to load my transactions Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0472",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Use it every day, very reliable 😞",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0473",
+  "platform": "android",
+  "rating": 3,
+  "text": "Getting duplicate notifications for the same payment Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0474",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Wish I could set custom categories",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0475",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Notifications arrive hours late Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0476",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Use it every day, very reliable 😞",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0477",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Update: Solid app, no complaints Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0478",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Works great, five stars 😞",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0479",
+  "platform": "ios",
+  "rating": 5,
+  "text": "FYI Love this app, does exactly what I need",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0480",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Love this app, does exactly what I need Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-14",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0481",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Hmm, Super smooth and easy to use Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0482",
+  "platform": "android",
+  "rating": 4,
+  "text": "Please add CSV export",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0483",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Hmm, Really helpful for tracking my spending",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "US"
+ },
+ {
+  "id": "r7-0484",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Hmm, Would love to export to Excel 😞",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0485",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Use it every day, very reliable Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0486",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Wish I could set custom categories 😞",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "US"
+ },
+ {
+  "id": "r7-0487",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Works great, five stars Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0488",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Clean design and fast",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0489",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Clean design and fast",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0490",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Love this app, does exactly what I need Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0491",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Wish I could set custom categories Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0492",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Great support team, quick fixes Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0493",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. Takes forever to load my transactions Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "US"
+ },
+ {
+  "id": "r7-0494",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Best budgeting app I've tried Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0495",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Notifications arrive hours late Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0496",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Update: Getting duplicate notifications for the same payment Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0497",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Use it every day, very reliable",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0498",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0499",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, Great support team, quick fixes 😞",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0500",
+  "platform": "android",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-15",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0501",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Use it every day, very reliable Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0502",
+  "platform": "android",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0503",
+  "platform": "android",
+  "rating": 3,
+  "text": "Getting duplicate notifications for the same payment",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "US"
+ },
+ {
+  "id": "r7-0504",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, Solid app, no complaints",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0505",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Loading spinner for ages before the dashboard shows 😞",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0506",
+  "platform": "android",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0507",
+  "platform": "android",
+  "rating": 4,
+  "text": "Update: Need a way to export my monthly report as PDF Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0508",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. Need a way to export my monthly report as PDF Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0509",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Hmm, Please add CSV export",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0510",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Wish I could set custom categories Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "US"
+ },
+ {
+  "id": "r7-0511",
+  "platform": "android",
+  "rating": 4,
+  "text": "Update: Would love to export to Excel",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0512",
+  "platform": "android",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0513",
+  "platform": "android",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0514",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: The new charts are lovely 😞",
+  "version": "2.3.0",
+  "date": "2026-10-16",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0515",
+  "platform": "android",
+  "rating": 5,
+  "text": "Really helpful for tracking my spending",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0516",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Solid app, no complaints Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0517",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Ugh. Notifications arrive hours late",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0518",
+  "platform": "android",
+  "rating": 2,
+  "text": "Ugh. Bill reminders don't always fire Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "US"
+ },
+ {
+  "id": "r7-0519",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Solid app, no complaints Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0520",
+  "platform": "android",
+  "rating": 5,
+  "text": "FYI Best budgeting app I've tried 😞",
+  "version": "2.3.1",
+  "date": "2026-10-16",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0521",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Phone gets warm when the app syncs Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0522",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Add shared budgets with my partner please",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0523",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Great support team, quick fixes Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0524",
+  "platform": "android",
+  "rating": 4,
+  "text": "Honestly, Wish I could set custom categories Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0525",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Sync is really slow on mobile data 😞",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0526",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Love this app, does exactly what I need",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0527",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Works great, five stars Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0528",
+  "platform": "android",
+  "rating": 4,
+  "text": "Please add CSV export 😞",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0529",
+  "platform": "android",
+  "rating": 5,
+  "text": "Solid app, no complaints Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0530",
+  "platform": "android",
+  "rating": 5,
+  "text": "Clean design and fast Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0531",
+  "platform": "android",
+  "rating": 5,
+  "text": "Works great, five stars",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0532",
+  "platform": "android",
+  "rating": 3,
+  "text": "Takes forever to load my transactions Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0533",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Solid app, no complaints",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0534",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Super smooth and easy to use 😞",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0535",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Battery usage is way too high for a finance app",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0536",
+  "platform": "android",
+  "rating": 5,
+  "text": "The new charts are lovely Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0537",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: Super smooth and easy to use Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0538",
+  "platform": "android",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "US"
+ },
+ {
+  "id": "r7-0539",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0540",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Getting duplicate notifications for the same payment Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-17",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0541",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Phone gets warm when the app syncs Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0542",
+  "platform": "android",
+  "rating": 5,
+  "text": "Hmm, Love this app, does exactly what I need 😞",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "US"
+ },
+ {
+  "id": "r7-0543",
+  "platform": "ios",
+  "rating": 3,
+  "text": "FYI Phone gets warm when the app syncs",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0544",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Hmm, Really helpful for tracking my spending",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0545",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Phone gets warm when the app syncs",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0546",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Works great, five stars 😞",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0547",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Phone gets warm when the app syncs Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0548",
+  "platform": "android",
+  "rating": 4,
+  "text": "Need a way to export my monthly report as PDF",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0549",
+  "platform": "android",
+  "rating": 5,
+  "text": "Love this app, does exactly what I need",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0550",
+  "platform": "android",
+  "rating": 4,
+  "text": "Best budgeting app I've tried Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0551",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Great support team, quick fixes Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0552",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Ugh. Wish I could set custom categories 😞",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0553",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Ugh. Best budgeting app I've tried Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0554",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Really helpful for tracking my spending",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "US"
+ },
+ {
+  "id": "r7-0555",
+  "platform": "android",
+  "rating": 4,
+  "text": "Ugh. Need a way to export my monthly report as PDF",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0556",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Update: Solid app, no complaints",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "US"
+ },
+ {
+  "id": "r7-0557",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Honestly, Love this app, does exactly what I need Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0558",
+  "platform": "android",
+  "rating": 4,
+  "text": "Add shared budgets with my partner please",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0559",
+  "platform": "android",
+  "rating": 5,
+  "text": "Ugh. Really helpful for tracking my spending 😞",
+  "version": "2.3.0",
+  "date": "2026-10-18",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0560",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Notifications arrive hours late 😞",
+  "version": "2.3.1",
+  "date": "2026-10-18",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0561",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Hmm, Bill reminders don't always fire",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0562",
+  "platform": "android",
+  "rating": 2,
+  "text": "Drains my battery in the background",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0563",
+  "platform": "android",
+  "rating": 4,
+  "text": "FYI Add shared budgets with my partner please Please fix.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0564",
+  "platform": "ios",
+  "rating": 5,
+  "text": "FYI Super smooth and easy to use Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "US"
+ },
+ {
+  "id": "r7-0565",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Honestly, Need a way to export my monthly report as PDF",
+  "version": "2.3.0",
+  "date": "2026-10-19",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0566",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, App feels sluggish when opening reports Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0567",
+  "platform": "android",
+  "rating": 3,
+  "text": "FYI Notifications arrive hours late",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0568",
+  "platform": "android",
+  "rating": 5,
+  "text": "Ugh. Best budgeting app I've tried Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0569",
+  "platform": "android",
+  "rating": 4,
+  "text": "Please add CSV export",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0570",
+  "platform": "ios",
+  "rating": 4,
+  "text": "Update: Need a way to export my monthly report as PDF 😞",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0571",
+  "platform": "android",
+  "rating": 4,
+  "text": "Super smooth and easy to use Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0572",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Use it every day, very reliable Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0573",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Hmm, Slow to refresh balances Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0574",
+  "platform": "android",
+  "rating": 4,
+  "text": "Clean design and fast Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0575",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Battery usage is way too high for a finance app",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0576",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Solid app, no complaints",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "US"
+ },
+ {
+  "id": "r7-0577",
+  "platform": "ios",
+  "rating": 4,
+  "text": "FYI Love this app, does exactly what I need 😞",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0578",
+  "platform": "android",
+  "rating": 3,
+  "text": "Hmm, Slow to refresh balances",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0579",
+  "platform": "android",
+  "rating": 4,
+  "text": "Solid app, no complaints Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "US"
+ },
+ {
+  "id": "r7-0580",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Use it every day, very reliable Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-19",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0581",
+  "platform": "ios",
+  "rating": 2,
+  "text": "Honestly, Bill reminders don't always fire",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "US"
+ },
+ {
+  "id": "r7-0582",
+  "platform": "android",
+  "rating": 3,
+  "text": "Honestly, Add shared budgets with my partner please",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0583",
+  "platform": "ios",
+  "rating": 3,
+  "text": "Ugh. Would love to export to Excel",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0584",
+  "platform": "android",
+  "rating": 5,
+  "text": "The new charts are lovely Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0585",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. Battery usage is way too high for a finance app Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "US"
+ },
+ {
+  "id": "r7-0586",
+  "platform": "android",
+  "rating": 5,
+  "text": "Honestly, Best budgeting app I've tried Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "KE"
+ },
+ {
+  "id": "r7-0587",
+  "platform": "android",
+  "rating": 3,
+  "text": "Ugh. Would love to export to Excel Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0588",
+  "platform": "android",
+  "rating": 2,
+  "text": "FYI Notifications arrive hours late Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "US"
+ },
+ {
+  "id": "r7-0589",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Update: Really helpful for tracking my spending Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0590",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Honestly, Clean design and fast",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0591",
+  "platform": "android",
+  "rating": 4,
+  "text": "Hmm, Wish I could set custom categories Really frustrating.",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0592",
+  "platform": "android",
+  "rating": 5,
+  "text": "Great support team, quick fixes",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0593",
+  "platform": "android",
+  "rating": 4,
+  "text": "Clean design and fast Otherwise good.",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "NL"
+ },
+ {
+  "id": "r7-0594",
+  "platform": "android",
+  "rating": 5,
+  "text": "Update: Super smooth and easy to use",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0595",
+  "platform": "android",
+  "rating": 5,
+  "text": "The new charts are lovely",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "AU"
+ },
+ {
+  "id": "r7-0596",
+  "platform": "android",
+  "rating": 4,
+  "text": "Would love to export to Excel",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "US"
+ },
+ {
+  "id": "r7-0597",
+  "platform": "android",
+  "rating": 4,
+  "text": "Please add CSV export 😞",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "GB"
+ },
+ {
+  "id": "r7-0598",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Really helpful for tracking my spending",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "ZA"
+ },
+ {
+  "id": "r7-0599",
+  "platform": "android",
+  "rating": 2,
+  "text": "Honestly, Drains my battery in the background",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "NG"
+ },
+ {
+  "id": "r7-0600",
+  "platform": "ios",
+  "rating": 5,
+  "text": "Best budgeting app I've tried Thanks.",
+  "version": "2.3.1",
+  "date": "2026-10-20",
+  "country": "AU"
+ }
+]

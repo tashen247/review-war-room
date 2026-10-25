@@ -1,0 +1,30 @@
+[
+ {
+  "version": "3.9.0",
+  "platform": "android",
+  "date": "2026-09-05",
+  "changelog": "New onboarding flow.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "3.9.0",
+  "platform": "ios",
+  "date": "2026-09-05",
+  "changelog": "New onboarding flow.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "3.9.1",
+  "platform": "android",
+  "date": "2026-10-02",
+  "changelog": "Bug fixes.",
+  "crashFree": 99.6
+ },
+ {
+  "version": "3.9.1",
+  "platform": "ios",
+  "date": "2026-10-04",
+  "changelog": "Updated image caching library. Bug fixes.",
+  "crashFree": 96.8
+ }
+]

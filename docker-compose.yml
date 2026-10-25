@@ -1,0 +1,30 @@
+services:
+  api:
+    build: .
+    env_file: .env
+    environment:
+      DB_PATH: /app/data/warroom.db
+      # n8n builds resumeUrl from WEBHOOK_URL (localhost, for your browser); the API reaches it via the service name
+      N8N_INTERNAL_URL: http://n8n:5678
+    ports: ["8787:8787"]
+    volumes:
+      - ./data:/app/data
+      - ./runs:/app/runs
+
+  n8n:
+    image: n8nio/n8n:1.123.87
+    ports: ["5678:5678"]
+    environment:
+      WEBHOOK_URL: http://localhost:5678/
+      WARROOM_API_URL: http://api:8787
+      SLACK_WARROOM_CHANNEL_ID: ${SLACK_WARROOM_CHANNEL_ID:-}
+      N8N_BLOCK_ENV_ACCESS_IN_NODE: "false"
+      N8N_SECURE_COOKIE: "false"
+      GENERIC_TIMEZONE: Africa/Johannesburg
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./n8n:/workflows:ro
+    depends_on: [api]
+
+volumes:
+  n8n_data:
